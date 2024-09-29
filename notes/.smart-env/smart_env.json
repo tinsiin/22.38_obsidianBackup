@@ -13,7 +13,7 @@
     }
   },
   "file_exclusions": "Untitled",
-  "folder_exclusions": "smart-chats",
+  "folder_exclusions": ".smart-chats",
   "is_obsidian_vault": true,
   "smart_notices": {
     "muted": {}
