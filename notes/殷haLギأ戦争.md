@@ -6,6 +6,9 @@ tags:
 aliases:
   - 情報皆乱
   - hal戦争
+innvalgia:
+  - 第三構成
+時代:
 ---
 
  
