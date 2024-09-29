@@ -6,7 +6,10 @@
   },
   "smart_sources": {
     "embed_model": {
-      "model_key": "TaylorAI/bge-micro-v2"
+      "model_key": "TaylorAI/bge-micro-v2",
+      "TaylorAI/bge-micro-v2": {
+        "gpu_batch_size": 64
+      }
     }
   },
   "file_exclusions": "Untitled",
@@ -15,5 +18,6 @@
   "smart_notices": {
     "muted": {}
   },
-  "smart_chats_folder": "smart-chats"
+  "smart_chats_folder": "smart-chats",
+  "legacy_transformers": false
 }
