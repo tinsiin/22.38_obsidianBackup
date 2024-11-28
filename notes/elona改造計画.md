@@ -5,3 +5,5 @@ tags:
 
 - 白衣のナースは相手を癒しの手で回復させた分の4倍追加で連撃を行うようにする
 - 冒険者にもペットを
+- 農業ペットによる上位ハーブ率の調整
+	- [elona oomEX 栽培検証「ペットの畑仕事」 : ただの趣味日記(主にelona)](http://blog.livedoor.jp/akurchin/archives/6241674.html)
