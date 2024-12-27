@@ -19,3 +19,20 @@ tags:
 
 
 [[どのイベントでも同じ男の悲鳴効果音]]
+
+## スクリーンショット
+![[ss019 - Felvidek.png]]
+
+![[ss020 - Felvidek.png]]
+
+![[ss021 - Felvidek.png]]
+
+![[ss022 - Felvidek.png]]
+
+![[ss023 - Felvidek.png]]
+
+![[ss024 - Felvidek.png]]![[ss016 - Felvidek.png]]
+
+![[ss017 - Felvidek.png]]
+
+![[ss018 - Felvidek.png]]![[ss010 - Felvidek.png]]
